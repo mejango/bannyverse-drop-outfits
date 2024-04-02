@@ -1,0 +1,10 @@
+<svg width="400" height="400" viewBox="0 0 400 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M180 137H157V140H180V137Z" fill="#074B55"/>
+<path d="M157 140H154V154H157V140Z" fill="#00A9C0" fill-opacity="0.509804"/>
+<path d="M147 144H144V147H147V144Z" fill="#0CF900"/>
+<path d="M194 144H187V150H194V144Z" fill="#F90000"/>
+<path d="M147 150H144V154H147V150Z" fill="#F90000"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M140 137H157V140H150V144V147V150V154H147V150H144V154H147V157H140V154V150V147V144V140V137ZM147 144V147H144V144H147Z" fill="#04353C"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M157 140H180V154H177V157H157V154V140Z" fill="#00DEFF" fill-opacity="0.509804"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M154 140H150V154H147V157H137V160H150V157H154V154V140Z" fill="#24656F"/>
+</svg>

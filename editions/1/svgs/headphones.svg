@@ -1,0 +1,35 @@
+<svg width="400" height="400" viewBox="0 0 400 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M183 104H152V107H183V104Z" fill="black"/>
+<path d="M154 107H144V110H154V107Z" fill="black"/>
+<path d="M190 107H187V110H190V107Z" fill="black"/>
+<path d="M144 110H140V117H144V110Z" fill="black"/>
+<path d="M194 110H190V114H194V110Z" fill="black"/>
+<path d="M187 114H150V117H187V114Z" fill="black"/>
+<path d="M197 114H194V117H197V114Z" fill="black"/>
+<path d="M140 117H137V120H140V117Z" fill="black"/>
+<path d="M147 117H144V120H147V117Z" fill="black"/>
+<path d="M190 117H187V120H190V117Z" fill="black"/>
+<path d="M200 117H197V127H200V117Z" fill="black"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M187 107H152V110H147H144V114V117H147V114H187V117H190V120H193V127H197V120V117H194V114H190V110H187V107Z" fill="#00B8ED"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M144 117H140V120H137V124V134H140V124H144V120V117Z" fill="#00B8ED"/>
+<path d="M204 127H197V130H204V127Z" fill="black"/>
+<path d="M207 130H204V134H207V130Z" fill="black"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M137 120H134V134H127V137H144V134V124H140V134H137V120Z" fill="black"/>
+<path d="M207 134H204V164H207V134Z" fill="#C4E7F1"/>
+<path d="M210 134H207V164H210V134Z" fill="black"/>
+<path d="M127 137H120V140H127V137Z" fill="black"/>
+<path d="M147 137H144V164H147V137Z" fill="black"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M197 130H204V137V164H200V137H197V130Z" fill="#00B8ED"/>
+<path d="M120 140H117V164H120V140Z" fill="black"/>
+<path d="M124 140H120V144H124V140Z" fill="#C4E7F1"/>
+<path d="M137 144H134V147H137V144Z" fill="black"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M144 137H130V140H137V144H140V164H144V144V140V137Z" fill="#C4E7F1"/>
+<path d="M134 147H130V154H134V147Z" fill="black"/>
+<path d="M130 154H127V160H130V154Z" fill="black"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M130 137H127V140H124V144H120V147V154V160V164H140V160V154V147V144H137V140H130V137ZM134 147V144H137V147H134ZM130 154V147H134V154H130ZM130 160V154H127V160H130Z" fill="#00B8ED"/>
+<path d="M127 164H120V167H127V164Z" fill="black"/>
+<path d="M140 164H127V167H140V164Z" fill="#C4E7F1"/>
+<path d="M144 164H140V167H144V164Z" fill="black"/>
+<path d="M207 164H200V167H207V164Z" fill="black"/>
+<path d="M140 167H127V170H140V167Z" fill="black"/>
+</svg>

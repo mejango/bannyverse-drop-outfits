@@ -1,0 +1,12 @@
+<svg width="400" height="400" viewBox="0 0 400 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M170 140H150V147H170V140Z" fill="#530930"/>
+<path d="M197 140H180V147H197V140Z" fill="#530930"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M137 140H150V144V153H147V144H137V140Z" fill="black"/>
+<path d="M170 147H150V150H170V147Z" fill="#8C1955"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M174 137H150V140H170V144V153H174V144H177V153H180V144V140H197V137H177V140H174V137Z" fill="black"/>
+<path d="M197 147H180V150H197V147Z" fill="#8C1955"/>
+<path d="M170 150H150V153H170V150Z" fill="#C33980"/>
+<path d="M197 150H180V153H197V150Z" fill="#C33980"/>
+<path d="M170 153H150V156H170V153Z" fill="black"/>
+<path d="M197 153H180V156H197V153Z" fill="black"/>
+</svg>

@@ -1,0 +1,76 @@
+<svg width="400" height="400" viewBox="0 0 400 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M244 100H240V104H244V100Z" fill="black"/>
+<path d="M247 100H244V104H247V100Z" fill="#BB954D"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M244 97H250V100V107H247V100H244V97Z" fill="#211806"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M237 90H234V97V104V107H237V104H240V97H237V90Z" fill="#463410"/>
+<path d="M240 104H237V107H240V104Z" fill="black"/>
+<path d="M247 104H244V107H247V104Z" fill="#A17F3F"/>
+<path d="M250 107H247V110H250V107Z" fill="#A17F3F"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M250 107H254V110V124H250V110V107Z" fill="black"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M230 94H234V97V107H237H240V110H237V114H234V120H230V114V107H227V97H230V94Z" fill="#211806"/>
+<path d="M237 114H234V127H237V114Z" fill="#37280A"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M237 110H244V114H240V117H237V114V110Z" fill="#816021"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M240 104H244V107H247V110H250V114V124H247V114H244V110H240V107V104Z" fill="#37280A"/>
+<path d="M230 117H227V120H230V117Z" fill="black"/>
+<path d="M240 117H237V124H240V117Z" fill="#BB954D"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M240 114H244V117H247V120H240V117V114Z" fill="black"/>
+<path d="M247 120H240V124H247V120Z" fill="#816021"/>
+<path d="M230 124H227V127H230V124Z" fill="#BB954D"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M227 120H234V124V127H230V124H227V120Z" fill="#816021"/>
+<path d="M247 124H244V127H247V124Z" fill="#5A4112"/>
+<path d="M250 124H247V134H250V124Z" fill="black"/>
+<path d="M234 127H230V130H234V127Z" fill="#A17F3F"/>
+<path d="M237 127H234V130H237V127Z" fill="#5A4112"/>
+<path d="M240 127H237V130H240V127Z" fill="#37280A"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M237 124H244V127V130H240V127H237V124Z" fill="#A17F3F"/>
+<path d="M237 130H234V134H237V130Z" fill="#A17F3F"/>
+<path d="M240 130H237V134H240V130Z" fill="#5A4112"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M230 127H227V130V134H230V137H227V140H237V137H240H244V134H247V130V127H244V130H240V134H234V130H230V127Z" fill="#37280A"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M244 134H247V137V140H237V137H244V134Z" fill="black"/>
+<path d="M230 140H227V144H230V140Z" fill="#BB954D"/>
+<path d="M234 140H230V144H234V140Z" fill="#A17F3F"/>
+<path d="M237 140H234V147H237V140Z" fill="black"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M224 134H230V137H227V144V147H224V154H220V147V144H224V137V134Z" fill="#634B1C"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M227 144H234V147H230V150H224V147H227V144Z" fill="#37280A"/>
+<path d="M234 147H230V157H234V147Z" fill="black"/>
+<path d="M227 150H224V154H227V150Z" fill="#816021"/>
+<path d="M230 150H227V154H230V150Z" fill="#5A4112"/>
+<path d="M230 154H220V157H230V154Z" fill="#37280A"/>
+<path d="M224 157H220V160H224V157Z" fill="#BB954D"/>
+<path d="M227 157H224V160H227V157Z" fill="#A17F3F"/>
+<path d="M230 157H227V167H230V157Z" fill="black"/>
+<path d="M224 160H220V164H224V160Z" fill="#816021"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M224 160H227V164V167H217V164H224V160Z" fill="#37280A"/>
+<path d="M220 167H217V170H220V167Z" fill="#BB954D"/>
+<path d="M224 167H220V170H224V167Z" fill="#5A4112"/>
+<path d="M227 167H224V177H227V167Z" fill="black"/>
+<path d="M220 170H217V174H220V170Z" fill="#816021"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M220 170H224V174V177H214V174H220V170Z" fill="#37280A"/>
+<path d="M217 177H214V180H217V177Z" fill="#BB954D"/>
+<path d="M220 177H217V180H220V177Z" fill="#A17F3F"/>
+<path d="M224 177H220V187H224V177Z" fill="black"/>
+<path d="M217 180H214V184H217V180Z" fill="#816021"/>
+<path d="M220 180H217V184H220V180Z" fill="#5A4112"/>
+<path d="M220 184H210V187H220V184Z" fill="#37280A"/>
+<path d="M214 187H210V190H214V187Z" fill="#BB954D"/>
+<path d="M217 187H214V190H217V187Z" fill="#A17F3F"/>
+<path d="M220 187H217V197H220V187Z" fill="black"/>
+<path d="M214 190H210V194H214V190Z" fill="#816021"/>
+<path d="M217 190H214V194H217V190Z" fill="#5A4112"/>
+<path d="M217 194H207V197H217V194Z" fill="#37280A"/>
+<path d="M210 197H207V200H210V197Z" fill="#BB954D"/>
+<path d="M214 197H210V200H214V197Z" fill="#A17F3F"/>
+<path d="M217 197H214V207H217V197Z" fill="black"/>
+<path d="M210 200H207V204H210V200Z" fill="#816021"/>
+<path d="M214 200H210V204H214V200Z" fill="#5A4112"/>
+<path d="M214 204H204V207H214V204Z" fill="#37280A"/>
+<path d="M207 207H204V210H207V207Z" fill="#BB954D"/>
+<path d="M210 207H207V210H210V207Z" fill="#A17F3F"/>
+<path d="M214 207H210V217H214V207Z" fill="black"/>
+<path d="M207 210H203V214H207V210Z" fill="#816021"/>
+<path d="M210 210H207V214H210V210Z" fill="#5A4112"/>
+<path d="M203 214H200V227H203V214Z" fill="black"/>
+<path d="M210 214H203V217H210V214Z" fill="#37280A"/>
+<path d="M207 217H203V227H207V217Z" fill="#5A4112"/>
+<path d="M210 217H207V237H210V217Z" fill="black"/>
+</svg>

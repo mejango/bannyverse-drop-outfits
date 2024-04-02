@@ -1,0 +1,19 @@
+<svg width="400" height="400" viewBox="0 0 400 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M197 230H180V234H197V230Z" fill="black"/>
+<path d="M200 234H197V237H200V234Z" fill="black"/>
+<path d="M200 237H197V247H200V237Z" fill="white"/>
+<path d="M203 237H200V247H203V237Z" fill="black"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M180 234H197V237H187V240H194V244H190V247H184V244H180V240H177V237H180V234Z" fill="white"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M174 234H180V237H177V244V247H163V253H160V247V244H174V237V234Z" fill="black"/>
+<path d="M174 247H163V250H174V247Z" fill="white"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M177 240H180V244H184V247H190V244H194V247V250H174V247H177V244V240Z" fill="#DFDCDC"/>
+<path d="M167 250H163V257H167V250Z" fill="#DFDCDC"/>
+<path d="M194 250H190V274H194V250Z" fill="white"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M167 250H177V254V267V270H167V267H174V254H170V257H167V254V250Z" fill="black"/>
+<path d="M177 270H163V274H177V270Z" fill="#DFDCDC"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M177 250H190V274H194V277H177V274V250Z" fill="#E9D340"/>
+<path d="M184 277H177V280H184V277Z" fill="#DFDCDC"/>
+<path d="M190 277H184V280H190V277Z" fill="white"/>
+<path d="M194 277H190V280H194V277Z" fill="#DFDCDC"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M187 237H197V240V247H200V250H197V280V284H174V280V277H160V274V270H163V274H177V277V280H194V250V247V240H187V237Z" fill="black"/>
+</svg>
