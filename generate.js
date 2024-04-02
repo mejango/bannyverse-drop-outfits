@@ -3,6 +3,7 @@ require('dotenv').config(); // This line loads the environment variables from th
 const fs = require('fs').promises;
 const path = require('path');
 const { exec } = require('child_process');
+const { keccak256 } = require('js-sha3');
 const BASE = require('base-x');
 const BASE58 = '123456789ABCDEFGHJKLMNPQRSTUVWXYZabcdefghijkmnopqrstuvwxyz';
 const base58 = BASE(BASE58);
@@ -13,6 +14,7 @@ const baseFolder = process.argv[2]; // Base folder path from command line argume
 const svgFolder = path.join(baseFolder, 'svgs');
 const hashesFilePath = path.join(baseFolder, 'hashes.txt');
 const encodedHashesFilePath = path.join(baseFolder, 'encoded-hashes.txt');
+const keccakHashesFilePath = path.join(baseFolder, 'keccak-hashes.txt'); // Path for Keccak hashes file
 
 function encodeIpfsUri(cid) {
     return '0x' + Buffer.from(base58.decode(cid).slice(2)).toString('hex');
@@ -47,6 +49,10 @@ async function uploadFiles(files) {
                 const encodedHash = encodeIpfsUri(response.Hash);
                 await fs.appendFile(encodedHashesFilePath, encodedHash + '\n');
                 console.log(`Encoded hash ${encodedHash} written to ${encodedHashesFilePath}`);
+                const content = await fs.readFile(filePath);
+                const keccakHash = keccak256(content);
+                await fs.appendFile(keccakHashesFilePath, keccakHash + '\n');
+                console.log(`Keccak hash for ${file} written to file: ${keccakHash}`);
             } else {
                 console.log(`No Hash found in response for ${file}`);
             }
@@ -66,6 +72,7 @@ async function main() {
         // Clear or create the files at the start
         await clearOrCreateFile(hashesFilePath);
         await clearOrCreateFile(encodedHashesFilePath);
+        await clearOrCreateFile(keccakHashesFilePath); 
 
         const files = await fs.readdir(svgFolder);
         await uploadFiles(files);
