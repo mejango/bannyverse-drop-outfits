@@ -1,12 +1,12 @@
 astronaut-body.svg 
-IPFS uri: QmWo5D5CwAmRYRXygdUUJFYvuTLrhG7okye8YUMjow6aQp 
-Encoded IPFS uri: 0x7da24c4c113b55a6f2b887ff50c80d84c7b39012d89f8a5e0d636d2c1c633b71 
-SVG keccak hash: 0x8bad327f99f4097cd9a1dcbc3f6d206c1c8b3d379f57f975e6dc48f2294f9fa3 
+IPFS uri: QmYvNZAqYNQbtavySVB4FYXAev18jSeAWZ6EEgrkbzXqtt 
+Encoded IPFS uri: 0x9d3859ef0aad4c149d41ba0d393ba52c0514ff12f58a145b9c6d3715953b3f41 
+SVG keccak hash: 0x4b88d7666c4bd78638142a3de0d606b037b68b0c14fccc9ab725596f425d77a3 
 
 astronaut-boots.svg 
-IPFS uri: QmXeqFoqMrVa8ZdEHGVWqaRnpzZePEPDoArCF2e3KJQBgP 
-Encoded IPFS uri: 0x8a618fdc674eb8e19c2d01f84ad30775019b85b8cfe9c1725a4660445b708b3c 
-SVG keccak hash: 0xedca629b6bc739d1d41869a36e17bd1d100557cdd9548d610459d3798bb02859 
+IPFS uri: QmTebdRG2Nz69E6RSrS7DmYSdRGL8fgR98D7rft6RX2aeg 
+Encoded IPFS uri: 0x4ee367dc00f3dbe5682f730405ddcb4dabfc4c8a7801a4143e16d298116ba1f5 
+SVG keccak hash: 0xe3fc13e93b0d570faa6e42e6d81898fe223f45eee4e23a5f66f03f636318c398 
 
 astronaut-head.svg 
 IPFS uri: QmeNiw94wyL9EvUozYcwTsvvAntpTaKfnYpGirHqfA5zuv 
@@ -89,9 +89,9 @@ Encoded IPFS uri: 0xf8377fbe642701e36fd50d164b786de4399ec24df608096c1291d805c29b
 SVG keccak hash: 0x026c2ccff1de658376bda9bfe095ccf521b7a751c5ca1c9ef2b33585497f277d 
 
 dorthy-shoes.svg 
-IPFS uri: QmPRA6bNv1vHDoTHiLba74tgbFBFkJ8LQumdoSWvVTffQf 
-Encoded IPFS uri: 0x10033d2b9d9fef14513b40506abba708824bd21c6478060cc5f4c2460e253c84 
-SVG keccak hash: 0xdd1254a6beb487a0bdf37fc011e58eef403c137a0e6859b981987bb635d9773b 
+IPFS uri: QmeTuQ97cmeTFmWBgN9uoVLJ1fstcXp4a98HAGDaEgBuBg 
+Encoded IPFS uri: 0xef96aab31bf296788a66569d1da4df9a34cf2c2bf29f84ec6bf04282be19e71b 
+SVG keccak hash: 0x83eef42ebf5df52d40a8ea913b1ad986f45351460f6febce394ae4853c134686 
 
 farmer-hat.svg 
 IPFS uri: QmdHtQuc8kRNoBmVzgdAqNpQJLpGGwbZWJsoPhesLAxbrM 
@@ -102,6 +102,11 @@ flops.svg
 IPFS uri: QmTUM9Z5CNjL4QQiJvNY8PTegwRTcKznQq7Gh5vusP5pSn 
 Encoded IPFS uri: 0x4c43397ab86628bd2f5c8237de248755b389b25f40e5b19eab7f4db67fac0233 
 SVG keccak hash: 0x9c9340ff849440e2b68188b72379cdfd2afbdd3a80ea19cdf6dd41a0c862d0d2 
+
+gap-tooth.svg 
+IPFS uri: QmNfo4sCYaeLY3uQRyAa7oGK2x6ET8iWDkF87PSjzdZtRU 
+Encoded IPFS uri: 0x04e77c576ab3c1b6532f308226bf713773fe6929138a40fab634abaec0bc6a97 
+SVG keccak hash: 0xcb30782c0fc8732cf9beee782666bfe80486c933b19b5751a0ad1e77a8a1284c 
 
 gas-can.svg 
 IPFS uri: QmbBVCr5sar2kofkr32Fb43mzH1f9Na6MfoET2uiKfWoTS 
@@ -149,9 +154,9 @@ Encoded IPFS uri: 0x446262f32aa23669ced760b1ffa8698eacf579ce3d13ba4d7ce56112ab44
 SVG keccak hash: 0xbe9c4490f821bb1eb1f64b0a5ee1cb041b139fd8718e1e2ad055d934a72e9946 
 
 mouthstraw.svg 
-IPFS uri: QmdDPXBUPyojXmNess4nPAgXTnZdr1CDagJsa5J14oLaE2 
-Encoded IPFS uri: 0xdd03108f94064c805f8f34bb4827d611d7ba5b08abd2d3f67727bb66c715cfcf 
-SVG keccak hash: 0x96050038f06704fa0c891bab58fd0c42c21e0163ef7ece20755f0b4696649e3c 
+IPFS uri: QmeqsfSU2dyBhzabC3PFjvbF68pARpb791TCG97kaUzZyA 
+Encoded IPFS uri: 0xf5377b3fe2fef80802eeeea046877640d654c2922df91c141e7cfe53e600c431 
+SVG keccak hash: 0xf20d8f8fe7a026f98aa9181ba0242d010429cd0cd1542fa8a5f218f5c47a4a38 
 
 natty-dred.svg 
 IPFS uri: QmanA7oWbAJgKc7dgVhBkFcpBdg2tKA1USAy7QyeDfCdoJ 
@@ -159,9 +164,9 @@ Encoded IPFS uri: 0xb8d50404ea95e080d341e70658ba33003d31106215b953e622423ae98c2a
 SVG keccak hash: 0xb93f4b85e0d09ae317d49e4fac84dd1e9750d43f6bcdde00d128e641e857d79e 
 
 nerd.svg 
-IPFS uri: QmZ9QQKJF1eQbr46hnAcZE2yd4wA5Mif8CGokpcewPBANs 
-Encoded IPFS uri: 0xa08efd992e3751574750ecb0f36ef4d22ca4f167ffc458d1302ffc0e99ed33a8 
-SVG keccak hash: 0x290de079e2ce3a064bd9df6112a5cc0b9eb75dbde7f5ce7861a781bc3448752c 
+IPFS uri: QmPP7JZHufQhTYD9ime8D4kZGzGjiN2VGLNa7M1qL1DwBC 
+Encoded IPFS uri: 0x0f7ceb1fe1e599c83a60ec3be7a8f7c553ca206e134b2f9bf3545cbeb6e794a7 
+SVG keccak hash: 0xedd5463390ba18e320374b3a7c2405a98c6752a4cfc10f1edc7389de636590d0 
 
 peachhair.svg 
 IPFS uri: QmcJREDkrX9qvSzbmAHFhafdTg97kdxk3baMCctzk8V9WG 
