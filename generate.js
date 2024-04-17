@@ -50,7 +50,7 @@ async function uploadFiles(files) {
             indent: 0,  
             pretty: false
           }
-        }).data;
+        }).data.replace(/"/g, "'");
         await fs.writeFile(path.join(optimizedSvgFolder, file), optimizedContent);
         const optimizedFilePath = path.join(optimizedSvgFolder, file);
         console.log(`Uploading ${optimizedFilePath}...`);
@@ -77,6 +77,7 @@ async function uploadFiles(files) {
                 await fs.appendFile(prettyFilePath, `IPFS uri: ${response.Hash} \n`);
                 await fs.appendFile(prettyFilePath, `Encoded IPFS uri: ${encodedHash} \n`);
                 await fs.appendFile(prettyFilePath, `SVG keccak hash: ${keccakHash} \n`);
+                await fs.appendFile(prettyFilePath, `SVG body: ${optimizedContentBody} \n`);
                 await fs.appendFile(prettyFilePath, '\n');
             } else {
                 console.log(`No Hash found in response for ${file}`);
