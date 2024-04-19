@@ -4,69 +4,46 @@
 <path d="M157 127H154V130H157V127Z" fill="#FAFAFA"/>
 <path d="M157 124H154V127H157V124Z" fill="black"/>
 <path d="M197 124H157V127H197V124Z" fill="#DDD6D6"/>
-<path d="M150 130H147V137H150V130Z" fill="black"/>
 <path d="M154 130H150V133H154V130Z" fill="#FAFAFA"/>
 <path d="M157 130H154V133H157V130Z" fill="#DDD6D6"/>
 <path d="M197 130H194V133H197V130Z" fill="#DDD6D6"/>
-<path d="M201 130H197V133H201V130Z" fill="black"/>
 <path d="M140 134H137V137H140V134Z" fill="#DDD6D6"/>
 <path d="M154 133H150V137H154V133Z" fill="#DDD6D6"/>
 <path d="M205 133H201V137H205V133Z" fill="black"/>
-<path d="M137 140H133V147H137V140Z" fill="black"/>
 <path d="M147 140H144V147H147V140Z" fill="#DDD6D6"/>
 <path d="M205 137H201V153H205V137Z" fill="black"/>
-<path d="M140 154H137V157H140V154Z" fill="#FAFAFA"/>
+<path d="M140 150H137V157H140V150Z" fill="#FAFAFA"/>
 <path d="M137 157H133V160H137V157Z" fill="#FAFAFA"/>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M147 150H150V153H147V150ZM154 156H150V153H154V156ZM154 156H163V160H154V156ZM180 153H186V156H180V153Z" fill="black"/>
 <path d="M133 160H129V174H133V160Z" fill="#FAFAFA"/>
-<path d="M129 174H126V210H129V174Z" fill="#FAFAFA"/>
-<path d="M129 210H126V220H129V210Z" fill="#FAFAFA"/>
-<path d="M133 220H129V224H133V220Z" fill="#FAFAFA"/>
-<path d="M167 224H164V227H167V224Z" fill="#FAFAFA"/>
-<path d="M164 227H160V230H164V227Z" fill="#FAFAFA"/>
-<path d="M170 227H167V230H170V227Z" fill="#FAFAFA"/>
+<path d="M126 177H123V220H126V177Z" fill="#FAFAFA"/>
+<path d="M133 220H126V224H133V220Z" fill="#FAFAFA"/>
+<path d="M166 224H163V227H166V224Z" fill="#FAFAFA"/>
+<path d="M163 227H160V230H163V227Z" fill="#FAFAFA"/>
+<path d="M169 227H166V230H169V227Z" fill="#FAFAFA"/>
 <path d="M160 230H157V250H160V230Z" fill="#FAFAFA"/>
-<path d="M174 230H170V237H174V230Z" fill="#FAFAFA"/>
+<path d="M173 230H169V237H173V230Z" fill="#FAFAFA"/>
 <path d="M154 234H150V237H154V234Z" fill="#DDD6D6"/>
 <path d="M157 237H154V240H157V237Z" fill="#DDD6D6"/>
-<path d="M170 237H167V240H170V237Z" fill="#FAFAFA"/>
-<path d="M167 240H160V244H167V240Z" fill="#DDD6D6"/>
-<path d="M164 250H160V254H164V250Z" fill="#FAFAFA"/>
-<path d="M167 254H164V257H167V254Z" fill="#FAFAFA"/>
-<rect x="137" y="137" width="17" height="3" fill="black"/>
-<rect x="137" y="147" width="17" height="3" fill="black"/>
-<rect x="139" y="140" width="3" height="7" fill="#FAFAFA"/>
-<rect x="137" y="142" width="2" height="3" fill="#FAFAFA"/>
-<rect x="142" y="142" width="2" height="3" fill="#FAFAFA"/>
-<rect x="150" y="150" width="7" height="3" fill="#D9D9D9"/>
-<rect x="154" y="153" width="9" height="3" fill="#D9D9D9"/>
-<rect x="151" y="140" width="3" height="7" fill="black"/>
+<path d="M169 237H166V240H169V237Z" fill="#FAFAFA"/>
+<path d="M166 240H160V244H166V240Z" fill="#DDD6D6"/>
+<path d="M163 250H160V253H163V250Z" fill="#FAFAFA"/>
+<path d="M166 253H163V257H166V253Z" fill="#FAFAFA"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M139 140H142V142H144V145H142V147H139V145H137V142H139V140Z" fill="#FAFAFA"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M157 150H150V153H154V156H163V153H157V150Z" fill="#D9D9D9"/>
 <rect x="154" y="133" width="3" height="4" fill="black"/>
-<rect x="157" y="127" width="44" height="3" fill="black"/>
 <rect x="163" y="153" width="10" height="3" fill="black"/>
 <rect x="173" y="150" width="7" height="3" fill="black"/>
-<rect x="157" y="130" width="40" height="4" fill="#2D2190"/>
-<rect x="154" y="137" width="3" height="13" fill="#2D2190"/>
 <rect x="157" y="150" width="3" height="3" fill="black"/>
-<rect x="157" y="143" width="3" height="7" fill="#2D2190"/>
-<rect x="160" y="150" width="13" height="3" fill="#2D2190"/>
 <rect x="173" y="146" width="7" height="4" fill="#2D2190"/>
 <rect x="180" y="150" width="6" height="3" fill="#2D2190"/>
 <rect x="186" y="156" width="11" height="3" fill="black"/>
 <rect x="194" y="150" width="3" height="3" fill="#D9D9D9"/>
-<rect x="197" y="133" width="4" height="14" fill="#2D2190"/>
-<rect x="194" y="134" width="3" height="6" fill="#2D2190"/>
 <rect x="160" y="134" width="4" height="3" fill="#742DB5"/>
 <rect x="160" y="147" width="4" height="3" fill="#742DB5"/>
-<rect x="180" y="146" width="11" height="4" fill="#A287D5"/>
 <rect x="186" y="150" width="8" height="3" fill="#742DB5"/>
 <rect x="194" y="140" width="3" height="10" fill="#742DB5"/>
 <rect x="168" y="134" width="26" height="3" fill="#742DB5"/>
-<rect x="160" y="140" width="4" height="7" fill="#A287D5"/>
-<rect x="164" y="146" width="9" height="4" fill="#A287D5"/>
 <rect x="191" y="146" width="3" height="4" fill="#742DB5"/>
-<rect x="164" y="137" width="30" height="3" fill="#A287D5"/>
-<rect x="164" y="140" width="27" height="3" fill="#B9B3E3"/>
 <rect x="142" y="140" width="2" height="2" fill="#D9D9D9"/>
 <rect x="137" y="140" width="2" height="2" fill="#D9D9D9"/>
 <rect x="142" y="145" width="2" height="2" fill="#D9D9D9"/>
@@ -76,13 +53,40 @@
 <rect x="157" y="140" width="3" height="3" fill="#D9D9D9"/>
 <rect x="160" y="137" width="4" height="3" fill="#D9D9D9"/>
 <rect x="164" y="134" width="4" height="3" fill="#D9D9D9"/>
-<rect x="194" y="124" width="3" height="3" fill="black"/>
-<rect x="157" y="134" width="3" height="6" fill="#2D2190"/>
-<rect x="164" y="143" width="3" height="3" fill="#A287D5"/>
-<rect x="191" y="140" width="3" height="6" fill="#A287D5"/>
-<rect x="167" y="143" width="21" height="3" fill="#B9B3E3"/>
-<rect x="188" y="143" width="3" height="3" fill="#A287D5"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M197 124H194V127H157V130H197V133H201V130V127H197V124Z" fill="black"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M157 130H197V133H201V147H197V140H194V134H160V140H157V143H160V150H157H154V137H157V134V130ZM160 150H173V153H160V150Z" fill="#2D2190"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M160 140H164V143H167V146H173V150H164V147H160V140Z" fill="#A287D5"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M191 140H164V143H167V146H188V143H191V140Z" fill="#B9B3E3"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M194 137H164V140H191V143H188V146H180V150H191V146H194V140V137Z" fill="#A287D5"/>
 <rect x="197" y="153" width="4" height="3" fill="black"/>
 <rect x="197" y="147" width="4" height="3" fill="#D9D9D9"/>
 <rect x="197" y="150" width="4" height="3" fill="#2D2190"/>
+<rect x="129" y="157" width="4" height="3" fill="black"/>
+<rect x="126" y="160" width="3" height="14" fill="black"/>
+<rect x="120" y="177" width="3" height="43" fill="black"/>
+<rect x="126" y="174" width="3" height="3" fill="#FAFAFA"/>
+<rect x="123" y="174" width="3" height="3" fill="black"/>
+<rect x="129" y="174" width="4" height="3" fill="black"/>
+<rect x="126" y="177" width="3" height="43" fill="black"/>
+<rect x="123" y="220" width="3" height="4" fill="black"/>
+<rect x="126" y="224" width="7" height="3" fill="black"/>
+<rect x="129" y="217" width="8" height="3" fill="black"/>
+<rect x="150" y="230" width="4" height="4" fill="black"/>
+<rect x="150" y="237" width="4" height="3" fill="black"/>
+<rect x="154" y="234" width="3" height="3" fill="black"/>
+<rect x="157" y="227" width="3" height="3" fill="black"/>
+<rect x="160" y="224" width="3" height="3" fill="black"/>
+<rect x="166" y="224" width="3" height="3" fill="black"/>
+<rect x="163" y="221" width="3" height="3" fill="black"/>
+<rect x="163" y="227" width="3" height="3" fill="black"/>
+<rect x="169" y="227" width="4" height="3" fill="black"/>
+<rect x="166" y="230" width="3" height="7" fill="black"/>
+<rect x="169" y="237" width="4" height="3" fill="black"/>
+<rect x="166" y="240" width="3" height="4" fill="black"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M163 230H160V240H163H166V237H163V230Z" fill="black"/>
+<rect x="160" y="244" width="3" height="6" fill="black"/>
+<rect x="163" y="250" width="3" height="3" fill="black"/>
+<rect x="166" y="253" width="4" height="4" fill="black"/>
+<rect x="137" y="157" width="3" height="3" fill="black"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M147 130H150V137H154V140V147V150H150V153H147V150H143V157H140V150H137V157H133V140H137V147H151V140H137V137H147V130ZM154 156V153H150V156H154ZM154 156V160H163V156H154ZM180 153H186V156H180V153Z" fill="black"/>
 </svg>
