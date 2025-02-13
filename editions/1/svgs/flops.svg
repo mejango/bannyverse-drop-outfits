@@ -1,26 +1,45 @@
 <svg width="400" height="400" viewBox="0 0 400 400" fill="none" xmlns="http://www.w3.org/2000/svg">
-<g class="b3">
-<path fill-rule="evenodd" clip-rule="evenodd" d="M170 283H173V287H180V290H183V293H187V297H190V303H180V307H177V310H173V317H170V310V307V303V297V293V290V287V283ZM167 330V317H170V330H167ZM163 340H167V330H163V340ZM163 340V347H160V340H163Z"/>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M200 317H203V320H207V323H203V333H200V343V347H197H193V340H197V330H200V317Z" />
-</g>
-<g class="b2">
-<path fill-rule="evenodd" clip-rule="evenodd" d="M180 303H187V307H183V310H180V313H177V317H173V313V310H177V307H180V303ZM173 317V327H170V317H173ZM167 330H170V343H167V347H163V340H167V330Z"/>
-<rect x="200" y="333" width="3" height="10"/>
-<rect x="207" y="343" width="3" height="4"/>
-</g>
-<g class="b1">
-<rect x="173" y="317" width="4" height="3"/>
-<rect x="170" y="327" width="3" height="3"/>
-<rect x="170" y="337" width="3" height="3"/>
-<rect x="173" y="343" width="7" height="4"/>
-<rect x="203" y="337" width="4" height="3"/>
-<rect x="210" y="343" width="3" height="4"/>
-</g>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M170 283H173V287H180V290H183V293H187V297H190V303H180V307H177V310H173V317H170V310V307V303V297V293V290V287V283ZM167 330V317H170V330H167ZM163 340H167V330H163V340ZM163 340V347H160V340H163Z" fill="#F3A604"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M180 303H187V307H183V310H180V313H177V317H173V313V310H177V307H180V303ZM173 317V327H170V317H173ZM167 330H170V343H167V347H163V340H167V330Z" fill="#FFC700"/>
+<rect x="173" y="317" width="4" height="3" fill="#FFE900"/>
+<rect x="170" y="327" width="3" height="3" fill="#FFE900"/>
+<rect x="170" y="337" width="3" height="3" fill="#FFE900"/>
+<rect x="173" y="343" width="7" height="4" fill="#FFE900"/>
 <rect x="150" y="350" width="33" height="3" fill="#A386D5"/>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M203 340H210V343H207V347H220V350H190V347H200V343H203V340Z" fill="black"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M200 317H203V320H207V323H203V333H200V343V347H197H193V340H197V330H200V317Z" fill="#F3A604"/>
+<rect x="200" y="333" width="3" height="10" fill="#FFC700"/>
+<rect x="207" y="343" width="3" height="4" fill="#FFC700"/>
+<rect x="203" y="337" width="4" height="3" fill="#FFE900"/>
+<rect x="210" y="343" width="3" height="4" fill="#FFE900"/>
+<path d="M190 347H220V350H190V347Z" fill="black"/>
+<rect x="203" y="340" width="7" height="3" fill="#A386D5"/>
+<rect x="200" y="343" width="7" height="4" fill="#A386D5"/>
 <rect x="193" y="350" width="27" height="3" fill="#A386D5"/>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M177 340H170V343H167V347H147V350V353H150V356H183V353H187V350H183V347H173V343H177V340ZM183 350V353H150V350H183Z" fill="black"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M183 347H147V350V353H150V356H183V353H187V350H183V347ZM183 350V353H150V350H183Z" fill="black"/>
+<rect x="170" y="340" width="7" height="3" fill="#A386D5"/>
+<rect x="167" y="343" width="6" height="4" fill="#A386D5"/>
 <rect x="220" y="350" width="4" height="3" fill="black"/>
 <rect x="190" y="350" width="3" height="3" fill="black"/>
 <rect x="193" y="353" width="27" height="3" fill="black"/>
+<rect x="156" y="340" width="4" height="7" fill="black"/>
+<rect x="160" y="330" width="3" height="10" fill="black"/>
+<rect x="163" y="317" width="4" height="13" fill="black"/>
+<rect x="167" y="283" width="3" height="34" fill="black"/>
+<rect x="177" y="313" width="3" height="7" fill="black"/>
+<rect x="173" y="320" width="4" height="10" fill="black"/>
+<rect x="170" y="330" width="3" height="7" fill="black"/>
+<rect x="173" y="337" width="4" height="3" fill="black"/>
+<rect x="177" y="340" width="3" height="3" fill="black"/>
+<rect x="180" y="343" width="3" height="4" fill="black"/>
+<rect x="183" y="347" width="4" height="3" fill="black"/>
+<rect x="197" y="317" width="3" height="13" fill="black"/>
+<rect x="193" y="330" width="4" height="10" fill="black"/>
+<rect x="190" y="340" width="3" height="7" fill="black"/>
+<rect x="203" y="323" width="4" height="14" fill="black"/>
+<rect x="207" y="320" width="3" height="7" fill="black"/>
+<rect x="207" y="337" width="3" height="3" fill="black"/>
+<rect x="210" y="340" width="3" height="3" fill="black"/>
+<rect x="213" y="343" width="7" height="4" fill="black"/>
+<rect x="220" y="347" width="4" height="3" fill="black"/>
+<rect x="180" y="310" width="3" height="3" fill="black"/>
 </svg>

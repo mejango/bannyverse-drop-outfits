@@ -32,7 +32,8 @@
 <path d="M177 274H174V277H177V274Z" fill="#CEC8B9"/>
 <path d="M167 277H164V300H167V277Z" fill="#A39C8B"/>
 <path fill-rule="evenodd" clip-rule="evenodd" d="M170 270H167V274H163V277H167V280H170V277H174V274H170V270Z" fill="#7A7363"/>
-<path d="M177 277H174V287H177V277Z" fill="black"/>
+<path d="M177 277H174V300H177V277Z" fill="black"/>
+<path d="M174 300H170V314H174V300Z" fill="black"/>
 <path d="M170 287H167V297H170V287Z" fill="#7A7363"/>
 <path fill-rule="evenodd" clip-rule="evenodd" d="M174 277H170V280H167V287H170V294H174V287V280V277Z" fill="#DCD5C6"/>
 <path d="M174 294H170V297H174V294Z" fill="#CEC8B9"/>
@@ -41,4 +42,5 @@
 <path fill-rule="evenodd" clip-rule="evenodd" d="M164 277H160V300V304H164V314H167V304V300H164V277Z" fill="black"/>
 <path d="M170 304H167V314H170V304Z" fill="#A39C8B"/>
 <rect x="163" y="270" width="4" height="4" fill="#DCD5C6"/>
+<rect x="167" y="314" width="4" height="3" fill="black"/>
 </svg>
